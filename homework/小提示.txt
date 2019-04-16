@@ -1,7 +1,0 @@
-1. 創建純文字文件(Txt檔案): 執行文字編輯 > 新增文件 > 文件內按command ＋ shift ＋ T
-2. 使用特殊字元、符號: Command + control + 空白鍵
-3. 跳到同一行的最前面or最後面: Command + ← or → 
-4. 刪除右邊的字(類似windows的delete功能): fn + ⌫
-5. 以詞為單位刪除英文: option + ⌫
-6. 刪除整行文字: Command + ⌫
-
