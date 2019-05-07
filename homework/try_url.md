@@ -4,13 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# HW16"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+    "# HW16\n",
     "![Alt text](Day_016_HW.jpg)"
    ]
   }
